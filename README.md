@@ -1,5 +1,6 @@
 # SITE - Site Oficial https://thiagostdio.github.io/site
 
+![](business card finish edition.jpg)
 
 ## MetaTags
 
