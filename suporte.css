@@ -197,9 +197,10 @@ section.destaque{
 /* feature boxes */
 .feature-box   {
   display: inline-block;
+  margin-top: -500px;
   height: 100%;
   width: 100%;
-  padding: 20px 90px;
+  padding: 20px 0px;
 }
 
 .feature-box img  {
