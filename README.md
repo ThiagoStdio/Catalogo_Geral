@@ -1,4 +1,4 @@
-# SITE - Site Oficial https://thiagostdio.github.io/site
+# SITE - Template FREE do site Criado pelo departamento Stdio
 
 
 
